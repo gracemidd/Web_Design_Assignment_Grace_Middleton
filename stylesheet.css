@@ -8,10 +8,12 @@
 /* -------------------- GLOBAL DEFAULTS */
 
 /* -------------------- HEADINGS AND TYPE */
-h1 {background: rgb(124, 124, 56);
-    font-family: Arial;
-    color: rgb(193, 83, 83);
-} 
+h1 {font-family: Arial, Helvetica, sans-serif;
+    color: lightslategrey;
+    background-color: black;
+    text-align: center;   
+}
+
 
 
 /* -------------------- LAYOUTS */
