@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+@import url("normalize.css");
+
+
+/* -------------------- GLOBAL DEFAULTS */
+
+/* -------------------- HEADINGS AND TYPE */
+.h1 {font-family: Arial, Helvetica, sans-serif;
+    color: lightslategrey;
+    background-color: black;
+    text-align: center;   
+}
+
+
+
+/* -------------------- LAYOUTS */
+
+/* -------------------- HEADER */
+
+/* -------------------- NAVIGATION */
+
+/* -------------------- FOOTER */
+
+/* -------------------- MODULES */
