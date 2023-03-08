@@ -1,14 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+@import url("normalize.css");
+
+
 /* -------------------- GLOBAL DEFAULTS */
 
 /* -------------------- HEADINGS AND TYPE */
-
-
-/*---------- LAYOUTS*/
 h1 {background: rgb(124, 124, 56);
     font-family: Arial;
     color: rgb(193, 83, 83);
 } 
- 
 
 
 /* -------------------- LAYOUTS */
