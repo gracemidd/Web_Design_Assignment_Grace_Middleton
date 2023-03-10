@@ -58,7 +58,7 @@ a:nth-child(3) {
 a:nth-child(4) {
     width: 150px;
 }
-nav .start-AFL-photography, a:nth-child(1):hover~.animation {
+nav .start-AFL-photography, a:nth-child(1) {
     width: 200px;
     left: 10px;
     background-color: #1abc9c;
