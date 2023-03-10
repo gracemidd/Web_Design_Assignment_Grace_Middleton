@@ -60,7 +60,7 @@ a:nth-child(4) {
 }
 nav .start-AFL-photography, a:nth-child(1) {
     border-radius: 5px;
-    padding: 5px;
+    padding: 1px;
     width: 50px;
     left: 10px;
     background-color: #1abc9c;
