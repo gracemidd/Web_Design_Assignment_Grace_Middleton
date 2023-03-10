@@ -17,14 +17,14 @@ nav {
     margin: 50px auto 0;
     position: relative;
     width: 750px;  
-    height: 40px;
-    background-color: #651818;
-    border-radius: 45px;
+    height: 80px;
+    background-color: #ffffff;
+    border-radius: 20px;
     font-size: 0;
 }
 
 nav a {
-    line-height: 30px;
+    line-height: 50px;
     height: 100%;
     font-size: 15px;
     display: inline-block;
@@ -61,8 +61,8 @@ a:nth-child(4) {
 nav .start-AFL-photography, a:nth-child(1) {
     border-radius: 5px;
     padding: 5px;
-    width: 100px;
-    left: 100px;
+    width: 200px;
+    left: 10px;
     background-color: #1abc9c;
 }
 
