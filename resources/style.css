@@ -60,7 +60,7 @@ a:nth-child(4) {
 }
 nav .start-AFL-photography, a:nth-child(1):hover {
     width: 100px;
-    left: 0px;
+    left: 10px;
     background-color: #1abc9c;
 }
 
