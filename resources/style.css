@@ -32,7 +32,7 @@ nav a {
     z-index: 1;
     text-decoration: none;
     text-transform: uppercase;
-    text-align: center;
+    text-align: left;
     color: white;
     cursor: pointer;
 }
