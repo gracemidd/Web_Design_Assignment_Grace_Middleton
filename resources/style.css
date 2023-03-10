@@ -58,25 +58,25 @@ a:nth-child(3) {
 a:nth-child(4) {
     width: 150px;
 }
-nav .start-AFL-photography, a:nth-child(1) {
+nav .start-AFL-photography, a:nth-child(1):hover~.animation {
     width: 200px;
     left: 10px;
     background-color: #1abc9c;
 }
 
-nav .start-Contact, a:nth-child(2) { 
+nav .start-Contact, a:nth-child(2):hover~.animation  { 
     width: 110px;
     left: 40px;
     background-color: #e74c3c;
 }
 
-nav .start-About, a:nth-child(3) { 
+nav .start-About, a:nth-child(3):hover~.animation  { 
     width: 100px;
     left: 500px;
     background-color: #3498db;
 }
 
-nav .start-Development-Work, a:nth-child(4) {
+nav .start-Development-Work, a:nth-child(4):hover~.animation  {
     width: 200px;
     left: 400px;
     background-color: #e67e22;
