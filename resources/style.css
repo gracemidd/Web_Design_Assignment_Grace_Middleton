@@ -67,24 +67,24 @@ nav .start-AFL-photography, a:nth-child(1) {
 }
 
 nav .start-Contact, a:nth-child(2) { 
-    border-radius: 25px;
-    padding: 20px;
+    border-radius: 5px;
+    padding: 5px;
     width: 110px;
     left: 300px;
     background-color: #e74c3c;
 }
 
 nav .start-About, a:nth-child(3) { 
-    border-radius: 25px;
-    padding: 20px;
+    border-radius: 5px;
+    padding: 5px;
     width: 100px;
     left: 500px;
     background-color: #3498db;
 }
 
 nav .start-Development-Work, a:nth-child(4) {
-    border-radius: 25px;
-    padding: 20px;
+    border-radius: 5px;
+    padding: 5px;
     width: 200px;
     left: 700px;
     background-color: #e67e22;
