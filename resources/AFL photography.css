@@ -1,15 +1,15 @@
-container {
+.container {
     position: relative;
     width: 50%;
 }
 
-image {
+.image {
     display: block;
     width: 100%;
     height: auto;
 }
 
-overlay {
+.overlay {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -22,11 +22,11 @@ overlay {
     background-color: rgb(83, 183, 56);
 }
 
-container:hover .overlay {
+.container:hover .overlay {
     opacity: 1;
 }
 
-text {
+.text {
     color: white;
     font-size: 20px;
     position: absolute;
