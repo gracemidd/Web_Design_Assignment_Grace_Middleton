@@ -47,7 +47,7 @@
 
 
 
-/*
+
 
 grid {
     display: grid;
@@ -56,11 +56,13 @@ grid {
     align-items: start;
 }
 
+/*
 img {
     border: 1px solid #ccc;
     max-width: 75%;
     height: auto;
-} */
+} 
+*/
 
 
 
